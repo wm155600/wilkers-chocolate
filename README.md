@@ -4,4 +4,4 @@
 Unsere website soll dafür da sein, personalisierte Schokolade zu designen
 
 ## Autoren
- Johanna und Mara :)
+ Johanna und Mara :) hi
