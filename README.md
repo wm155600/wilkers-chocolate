@@ -6,3 +6,4 @@ Unsere website soll dafür da sein, personalisierte Schokolade zu designen
 ## Autoren
  Johanna, Kacka und Mara :) 
 
+ich bin johanna kaka
