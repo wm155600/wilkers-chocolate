@@ -1,0 +1,29 @@
+.container {
+     width:100vw;
+     height: 100vh;    display: grid;
+     grid-template-columns: 25% 25% 25% 25%;
+     grid-template-rows: 25% 25% 25% 25%;
+     grid-template-areas:
+     "header header header sidebar "
+     "content content content sidebar"
+     "content content content sidebar" 
+     "footer footer footer sidebar"}
+     
+     .header 
+     {
+         background-color: rgb(33, 252, 179);
+         grid-area: header;
+    }
+    .aside {
+         background-color: rgb(82, 80, 228);
+         grid-area: 
+        content;}
+        .main 
+        {
+             background-color: rgb(235, 24, 24);
+         grid-area:footer;
+        }
+        .footer
+         { background-color:
+             rgb(243, 190, 14);
+               grid-area: sidebar;}
